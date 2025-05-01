@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>elmoamen - Luxury Car Modifications</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>elmoamen</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">الرئيسية</a></li>
+        <li><a href="services.html">الخدمات</a></li>
+        <li><a href="about.html">من نحن</a></li>
+        <li><a href="contact.html">تواصل معنا</a></li>
+        <li><a href="register.html">Register</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="home">
+    <section class="car">
+      <img src="gclass.jpg" alt="G-Class Brabus">
+      <div>
+        <h2>G-Class Brabus</h2>
+        <p>Modified with Brabus widebody kit, upgraded exhaust, LED lights, luxury leather interior, and performance tuning up to 800HP.</p>
+      </div>
+    </section>
+
+    <section class="car">
+      <img src="bmw.jpg" alt="BMW M5 Modified">
+      <div>
+        <h2>BMW M5 Modified</h2>
+        <p>Featuring performance ECU tune, carbon fiber diffuser, 21" forged wheels, M performance body kit, and sports exhaust system.</p>
+      </div>
+    </section>
+
+    <section class="car">
+      <img src="rolls.jpg" alt="Rolls-Royce Modified">
+      <div>
+        <h2>Rolls-Royce Modified</h2>
+        <p>Luxury meets power with custom wheels, body kit, starlight headliner, tuned V12 engine, and enhanced sound insulation.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 elmoamen. All rights reserved.</p>
+  </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Services - elmoamen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>elmoamen</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">الرئيسية</a></li>
+        <li><a href="services.html">الخدمات</a></li>
+        <li><a href="about.html">من نحن</a></li>
+        <li><a href="contact.html">تواصل معنا</a></li>
+        <li><a href="register.html">Register</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>الخدمات</h2>
+    <ul>
+      <li>شراء سيارة</li>
+      <li>تعديل سيارة</li>
+      <li>شراء وتعديل معًا</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 elmoamen. All rights reserved.</p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Services - elmoamen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>elmoamen</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">الرئيسية</a></li>
+        <li><a href="services.html">الخدمات</a></li>
+        <li><a href="about.html">من نحن</a></li>
+        <li><a href="contact.html">تواصل معنا</a></li>
+        <li><a href="register.html">Register</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>الخدمات</h2>
+    <ul>
+      <li>شراء سيارة</li>
+      <li>تعديل سيارة</li>
+      <li>شراء وتعديل معًا</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 elmoamen. All rights reserved.</p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Us - elmoamen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>elmoamen</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">الرئيسية</a></li>
+        <li><a href="services.html">الخدمات</a></li>
+        <li><a href="about.html">من نحن</a></li>
+        <li><a href="contact.html">تواصل معنا</a></li>
+        <li><a href="register.html">Register</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>من نحن</h2>
+    <p>تأسست شركة elmoamen عام 1980 بواسطة Eng/Moamen Elkmmar، الذي بدأ شغفه بتعديل السيارات منذ شبابه. بعد أن لاقت تعديلاته إعجاب الناس، قرر تأسيس الشركة التي أصبحت اسماً لامعاً في مجال التعديل الفاخر.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 elmoamen. All rights reserved.</p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact Us - elmoamen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>elmoamen</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">الرئيسية</a></li>
+        <li><a href="services.html">الخدمات</a></li>
+        <li><a href="about.html">من نحن</a></li>
+        <li><a href="contact.html">تواصل معنا</a></li>
+        <li><a href="register.html">Register</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Contact Us</h2>
+    <div class="contact-box">
+      <h3>Founder - Eng/Moamen Elkmmar</h3>
+      <p><a href="mailto:moamen.elkmmar@icloud.com">moamen.elkmmar@icloud.com</a></p>
+      <p><a href="https://wa.me/201208583909" target="_blank">01208583909</a></p>
+    </div>
+    <div class="contact-box">
+      <h3>Eng/Moamen Khattab</h3>
+      <p><a href="mailto:MamenKhattab@gmail.com">MamenKhattab@gmail.com</a></p>
+      <p><a href="https://wa.me/201030398367" target="_blank">+20 103 039 8367</a></p>
+    </div>
+    <div class="contact-box">
+      <h3>Eng/Mostafa Refaei</h3>
+      <p><a href="mailto:mostafarefei@feng.bu.edu.eg">mostafarefei@feng.bu.edu.eg</a></p>
+      <p><a href="https://wa.me/201222434940" target="_blank">+20 12 22434940</a></p>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 elmoamen. All rights reserved.</p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Register - elmoamen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>elmoamen</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">الرئيسية</a></li>
+        <li><a href="services.html">الخدمات</a></li>
+        <li><a href="about.html">من نحن</a></li>
+        <li><a href="contact.html">تواصل معنا</a></li>
+        <li><a href="register.html">Register</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="form-container">
+    <h2>Register for Service</h2>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" required>
+
+      <label for="phone">Phone:</label>
+      <input type="tel" id="phone" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" required>
+
+      <fieldset>
+        <legend>Choose Service:</legend>
+        <label><input type="radio" name="service"> Buy a Car</label>
+        <label><input type="radio" name="service"> Modify a Car</label>
+        <label><input type="radio" name="service"> Buy and Modify</label>
+      </fieldset>
+
+      <button type="submit">Submit</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 elmoamen. All rights reserved.</p>
+  </footer>
+</body>
+</html>body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f2f2f2;
+  color: #333;
+}
+
+header {
+  background: #111;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.car {
+  display: flex;
+  padding: 20px;
+  background: white;
+  margin: 20px auto;
+  max-width: 800px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.car img {
+  width: 300px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.contact-box {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.form-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  box-shadow: 0 0 10px #aaa;
+}
+
+label, input, button, fieldset {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  background: #333;
+  color: white;
+  padding: 10px;
+  border: none;
+}
